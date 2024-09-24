@@ -1,0 +1,17 @@
+/* *{
+    color: orange;
+} */
+/* (*) is universal selector */
+
+h1{
+    color: orange;
+}
+p{
+    color: red;
+}
+span{
+    color: brown;
+}
+.Ritik{
+    background-color: blue;
+}
