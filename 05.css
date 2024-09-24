@@ -1,0 +1,16 @@
+/* p{
+    text-align: center;
+} */
+ p{
+    text-align: justify;
+    word-spacing: 5px;
+ }
+ h1{
+    direction: ltr;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    text-decoration: line-through;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    text-shadow: 2px 5px;
+ }
