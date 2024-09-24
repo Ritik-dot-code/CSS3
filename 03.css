@@ -1,0 +1,14 @@
+/* h1{
+    color: red;
+    border: 2px solid orange;
+} */
+
+h1{
+    color: rgb(0, 128, 60);
+}
+/* we can use rgba,  #00000,  hsl,  for color the elments*/
+
+body{
+    background-color: antiquewhite;
+}
+/* we can set the img in the background */
