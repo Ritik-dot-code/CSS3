@@ -1,0 +1,25 @@
+/* all about border */
+/* h1{
+    border-style: double;
+    border-radius: 2px;
+    border-width: 6px;
+    border-color: red blue green yellow;
+} */
+/* h1{
+    border: 5px dashed blue;
+} */
+
+/* ************************************************************************** */
+/* all about box model */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    border: 5px solid orangered;
+    height: 100px;
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+}
