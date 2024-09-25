@@ -1,0 +1,9 @@
+@media (max-width:720px) {
+    p{
+        background-color: blue;
+        color: #fff;
+    }
+}
+p{
+    transform: skew(20deg, 2deg);
+}
